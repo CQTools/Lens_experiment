@@ -1,0 +1,17 @@
+[33mcommit 7286e717b11632fd6c41ed2fdc1a4416d7befc7b[m
+Author: superted6851 <nicklewty@gmail.com>
+Date:   Mon Mar 9 09:07:46 2015 +0800
+
+    git ignore file added
+
+[33mcommit 5dc0cdaa21f556c20176c93dba63ae294eca1a72[m
+Author: superted6851 <nicklewty@gmail.com>
+Date:   Mon Mar 9 09:04:53 2015 +0800
+
+    removed ~$ files
+
+[33mcommit 06dfabc7817d3c5ca9ae2a4113a227bc87e64c6f[m
+Author: unknown <nick@cqtncl.stf.nus.edu.sg>
+Date:   Mon Mar 9 08:45:05 2015 +0800
+
+    Created the asphericon lens and checked in a setup up that the mot beams can easily pass through
